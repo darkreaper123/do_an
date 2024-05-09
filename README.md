@@ -1,4 +1,4 @@
-Source code phiên bản cải tiến bài báo của chính tôi: "GIFT4Rec: An Effective Side Information Fusion Technique Apply to Graph Neural Network for Cold-Start Recommendation". ([Link xuất bản chính thức](https://dl.acm.org/doi/abs/10.1007/978-981-99-5834-4_27))
+Source code phiên bản cải tiến bài báo của chính tôi được chấp thuận tại hội nghị ACIIDS 2023 rank B, sử dụng làm đồ án: "GIFT4Rec: An Effective Side Information Fusion Technique Apply to Graph Neural Network for Cold-Start Recommendation". ([Link xuất bản chính thức](https://dl.acm.org/doi/abs/10.1007/978-981-99-5834-4_27))
 
 Lấy folder dữ liệu từ ([link drive](https://drive.google.com/drive/folders/1FDpEqPzttjT_qKSvu0VM-vAHwd7PWcKb?usp=sharing))
 
